@@ -102,7 +102,20 @@ CapFriendly.com
 
 Evolving-Hockey (paid for advanced stats)
 
-Would you like help building a starter script or collecting a dataset?
+
+Web App with Streamlit (Fastest for Data Science Prototypes)
+Streamlit is great for turning ML models into shareable web apps.
+
+Features:
+Sliders, dropdowns for inputs
+
+Displays predictions and charts
+
+Run locally or deploy online
+
+
+
+
 
 
 
